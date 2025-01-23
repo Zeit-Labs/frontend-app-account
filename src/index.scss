@@ -145,3 +145,9 @@ $fa-font-path: "~font-awesome/fonts";
   }
 }
 
+@import '~@amjadsh97/brand-openedx/paragon/overrides';
+@import '~@amjadsh97/brand-openedx/paragon/brand';
+@import '~@amjadsh97/brand-openedx/paragon/fonts';
+@import '~@amjadsh97/brand-openedx/paragon/variables';
+@import '~@amjadsh97/brand-openedx/paragon/types';
+@import '~@amjadsh97/brand-openedx/paragon/account';
